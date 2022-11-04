@@ -2,7 +2,7 @@
 
 ## Sprint 1:
 
- - Configuració d'arrencada del grub.
+ - Configuració d'arrencada del GRUB.
  - Establir contrasenyes d'arrencada  i per al mode "single user".
  - Configuració de l'entorn.
  - Evitar la reutilització de contrasenyes.
