@@ -19,7 +19,7 @@
   - Realitzar les comandes necessàries per accedir a la informació del usuaris
   - Reiniciar contrasenya
   
-  - Cifrat de disc
+  - Xifrat de disc
   - Evitar arrancades d'eines live
   - Configurar polítiques de contrasenyes
  
