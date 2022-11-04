@@ -10,16 +10,11 @@
 
 ## Sprint 2:
 
- - Hardening de Windows
-  - Creació d'usuari normal sense privilegis i d'administrador amb privilegis
+  - Creació d'usuari sense privilegis i d'usuari administrador
   - Comprovació de Windows Defender i protecció contra ransomware (control d'accés a carpetes)
+  - Restabliment de contrasenya amb Kali Linux
+  - Establiment polítiques de contrasenyes
+  - Xifrat de disc mitjançant BitLocker
+  - Polítiques per evitar l'arrencada d'eines live
   
- - Reiniciar contrasenya d'un usuari amb Kali Linux
-  - Iniciar ISO de Kali Linux a la màquina
-  - Realitzar les comandes necessàries per accedir a la informació del usuaris
-  - Reiniciar contrasenya
-  
-  - Xifrat de disc
-  - Evitar arrancades d'eines live
-  - Configurar polítiques de contrasenyes
  
