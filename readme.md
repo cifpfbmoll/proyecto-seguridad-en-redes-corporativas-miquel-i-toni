@@ -10,11 +10,12 @@
 
 ## Sprint 2:
 
-  - Creació d'usuari sense privilegis i d'usuari administrador
-  - Comprovació de Windows Defender i protecció contra ransomware (control d'accés a carpetes)
-  - Restabliment de contrasenya amb Kali Linux
-  - Establiment polítiques de contrasenyes
-  - Xifrat de disc mitjançant BitLocker
-  - Polítiques per evitar l'arrencada d'eines live
+  - Creació d'usuari sense privilegis i d'usuari administrador.
+  - Comprovació de Windows Defender 
+  - Protecció contra ransomware (control d'accés a carpetes).
+  - Restabliment de contrasenya amb Kali Linux.
+  - Establiment polítiques de contrasenyes.
+  - Xifrat de disc mitjançant BitLocker.
+  - Polítiques per evitar l'arrencada d'eines live.
   
  
