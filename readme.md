@@ -18,4 +18,12 @@
   - Xifrat de disc mitjançant BitLocker.
   - Polítiques per evitar l'arrencada d'eines live.
   
+  
+## Sprint 3:
+
+- Realització de còpies de seguretat.
+- Restauració de les còpies realitzades.
+- Esborrat de fitxers i formateig d'unitats extraïbles.
+- Recuperació de fitxers mitjançant software especialitzat.
+- Eliminació d'arxius utilitzant Eraser.   
  
