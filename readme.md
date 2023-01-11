@@ -41,5 +41,5 @@
 
 - Instal·lació servidor SSH.
 - Configuracions de seguretat.
-- Instal·lar i habilitar autenticació de doble factor.
+- Instal·lació i habilitament d'autenticació de doble factor.
 - Connexió al servidor mitjançant SSH.
