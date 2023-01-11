@@ -27,3 +27,19 @@
 - Recuperació de fitxers mitjançant software especialitzat.
 - Eliminació d'arxius utilitzant Eraser.   
  
+## Sprint 4:
+
+- Instal·lació d'Apache.
+- Configuracions de seguretat.
+- Exposició mínima de mòduls.
+- Creació de VirtualHosts.
+- Directives de seguretat (Options, Auth...).
+- Realització d'atacs DoS i SQL.
+- Instal·lació i aplicació de regles OWASP.
+
+## Sprint 5:
+
+- Instal·lació servidor SSH.
+- Configuracions de seguretat.
+- Instal·lar i habilitar autenticació de doble factor.
+- Connexió al servidor mitjançant SSH.
