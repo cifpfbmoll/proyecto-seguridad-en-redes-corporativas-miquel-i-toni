@@ -43,3 +43,12 @@
 - Configuracions de seguretat.
 - Instal·lació i habilitament d'autenticació de doble factor.
 - Connexió al servidor mitjançant SSH.
+
+## Sprint 6:
+
+- Instal·lació de Docker.
+- Instal·lació de Nessus.
+- Creació de la màquina amb Metasplotaible.
+- Escaneig de vulnerabilitats mitjançant Nessus.
+- Escaneig de vulnerabilitats mitjançant Nmap.
+
