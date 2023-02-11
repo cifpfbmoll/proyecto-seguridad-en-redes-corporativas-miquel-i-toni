@@ -52,3 +52,21 @@
 - Escaneig de vulnerabilitats mitjançant Nessus.
 - Escaneig de vulnerabilitats mitjançant Nmap.
 
+## Sprint 7:
+
+- Instal·lació PfSense
+- Configuració dels adaptadors de xarxa
+- Creació de regla per a permetre pings a PfSense
+- Creació de regla per a redirigir el tràfic dels ports 80 i 443 al servidor web
+- Creació de regla per a blocar el tràfic cap al port 80
+- Creació de regla per a redirigir les connexions SSH
+
+## Sprint 8:
+
+- Instal·lació Suricata
+- Configuració i aplicació de regles Snort
+- Activació de Suricata
+- Instal·lació de servidor VPN
+- Configuració VPN i certificat
+- Creació i exportació de l'usuari OpenVPN
+- Instal·lació d'OpenVPN i connexió al servei
