@@ -70,3 +70,13 @@
 - Configuració VPN i certificat
 - Creació i exportació de l'usuari OpenVPN
 - Instal·lació d'OpenVPN i connexió al servei
+
+## Sprint 10:
+
+- Definició de proxy invers
+- Habilitament dels mòduls
+- Configuració del balancejador de càrrega
+- Accés a l'administrador del balancejador
+- Creació de nodes 
+- Configuració dels ports
+- Comprovació de la connectivitat
